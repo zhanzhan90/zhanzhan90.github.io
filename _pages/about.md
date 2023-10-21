@@ -20,7 +20,7 @@ Education
 *{padding:0;margin:0;}
 .media{width:100%;margin:0 auto;border:0 solid #ccc;padding:10px 0;}
 .media:after{clear:both;display:block;width:0;height:0;content:""}
-.pull-left{height:75px;float:left;border:0 solid #ccc}
+.pull-left{float:left;border:0 solid #ccc}
 .pull-left img{width:75px;}
 .media-body{float:left;margin-left:10px;font-size:16px;}
 <!-- Thanks to Fengling for this style codes -->
@@ -50,7 +50,7 @@ Work Experiences
     <div class="media-body">
         <div><span style="font-weight: bold">Visiting Student</span></div>
         <div>Institute for Human Genetics</div>
-        <div>University of California, San Francisco (UCSF), 2021-2022</div>
+        <div>UCSF, 2021-2022</div>
     </div>
 </div>
 
@@ -58,7 +58,7 @@ Work Experiences
     <span class="pull-left"><img src="images/thu.png" width="75px" height="75px"/></span>
     <div class="media-body">
         <div><span style="font-weight: bold">Intern</span></div>
-        <div>National Engineering Lab of Neuromodulation</div>
+        <div>National Engineering Lab for Neuromodulation</div>
         <div>Tsinghua University, 2021</div>
     </div>
 </div>
@@ -75,5 +75,6 @@ Academic Awards
 * Excellent Graduation Thesis, Nankai University
 * Scholarship of Academic Progress, Nankai University
 * Third Prize in Innovative Scientific Research for Undergraduates of Nankai University
-
+<div style="text-align:center">
 <script type="text/javascript" src="//rf.revolvermaps.com/0/0/8.js?i=5sgot2dxrbg&amp;m=0c&amp;c=ff0000&amp;cr1=ffffff&amp;f=calibri&amp;l=49&amp;s=200&amp;cw=ffffff&amp;cb=000000" async="async"></script>
+</div>
