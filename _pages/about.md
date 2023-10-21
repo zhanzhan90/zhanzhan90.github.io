@@ -15,14 +15,16 @@ Genomics & Epigenomics, Bioinformatics, Sequencing Techniques
 
 Education
 ======
-<table border="0"> 
-  <tbody>
-    <tr> 
-      <td><img src="images/nku.png" width="75px" height="75px"/></td> 
-      <td><b> 2023   B.S. Biological Science (Poling Class)</b><br /> Nankai University <br /> Advisor: Prof. Xinglu Huang</td> 
-      </tr> 
-  </tbody>
-</table> 
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8">
+<style type="text/css">
+*{padding:0;margin:0;}
+.media{width:1000px;margin:0 auto;border:0 solid #ccc;padding:10px 0;}
+.media:after{clear:both;display:block;width:0;height:0;content:""}
+.pull-left{height:75px;float:left;border:0 solid #ccc}
+.pull-left img{height:75px;}
+.media-body{float:left;width:450px;margin-left:10px;font-size:16px;}
+<!-- Thanks to Fengling for this style codes -->
+</style>
 
 <div class="media">
     <span class="pull-left"><img src="images/nku.png" width="75px" height="75px"/></span>
