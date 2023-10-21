@@ -18,11 +18,11 @@ Education
 <meta http-equiv="Content-Type" content="text/html;charset=utf-8">
 <style type="text/css">
 *{padding:0;margin:0;}
-.media{width:1000px;margin:0 auto;border:0 solid #ccc;padding:10px 0;}
+.media{width:100%;margin:0 auto;border:0 solid #ccc;padding:10px 0;}
 .media:after{clear:both;display:block;width:0;height:0;content:""}
 .pull-left{height:75px;float:left;border:0 solid #ccc}
 .pull-left img{width:75px;}
-.media-body{float:left;width:450px;margin-left:10px;font-size:16px;}
+.media-body{float:left;width:100%;margin-left:10px;font-size:16px;}
 <!-- Thanks to Fengling for this style codes -->
 </style>
 
@@ -66,13 +66,14 @@ Work Experiences
 Publications
 ------
 
-Also see my [Google Scholar](https://scholar.google.com/citations?user=GFkNo_IAAAAJ).
+Also see my [Google Scholar Profile](https://scholar.google.com/citations?user=GFkNo_IAAAAJ).
 
 Academic Awards
 ------
-+ Poling Honors Degree, Nankai University
-+ Excellent Graduation Thesis, Nankai University
-+ Scholarship of Academic Progress, Nankai University
-+ Third Prize in Innovative Scientific Research for Undergraduates of Nankai University
+
+* Poling Honors Degree, Nankai University
+* Excellent Graduation Thesis, Nankai University
+* Scholarship of Academic Progress, Nankai University
+* Third Prize in Innovative Scientific Research for Undergraduates of Nankai University
 
 <script type="text/javascript" src="//rf.revolvermaps.com/0/0/8.js?i=5sgot2dxrbg&amp;m=0c&amp;c=ff0000&amp;cr1=ffffff&amp;f=calibri&amp;l=49&amp;s=200&amp;cw=ffffff&amp;cb=000000" async="async"></script>
