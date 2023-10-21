@@ -75,6 +75,7 @@ Academic Awards
 * Excellent Graduation Thesis, Nankai University
 * Scholarship of Academic Progress, Nankai University
 * Third Prize in Innovative Scientific Research for Undergraduates of Nankai University
+
 <div style="text-align:center">
 <script type="text/javascript" src="//rf.revolvermaps.com/0/0/8.js?i=5sgot2dxrbg&amp;m=0c&amp;c=ff0000&amp;cr1=ffffff&amp;f=calibri&amp;l=49&amp;s=200&amp;cw=ffffff&amp;cb=000000" async="async"></script>
 </div>
