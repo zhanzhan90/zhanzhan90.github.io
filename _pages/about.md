@@ -43,8 +43,6 @@ Education
     </div>
 </div>
 
-<script type="text/javascript" src="//rf.revolvermaps.com/0/0/8.js?i=5sgot2dxrbg&amp;m=0c&amp;c=ff0000&amp;cr1=ffffff&amp;f=calibri&amp;l=49&amp;s=200&amp;cw=ffffff&amp;cb=000000" async="async"></script>
-
 Work Experiences
 ------
 <div class="media">
@@ -64,3 +62,6 @@ Work Experiences
         <div>Tsinghua University, 2021</div>
     </div>
 </div>
+
+
+<script type="text/javascript" src="//rf.revolvermaps.com/0/0/8.js?i=5sgot2dxrbg&amp;m=0c&amp;c=ff0000&amp;cr1=ffffff&amp;f=calibri&amp;l=49&amp;s=200&amp;cw=ffffff&amp;cb=000000" async="async"></script>
