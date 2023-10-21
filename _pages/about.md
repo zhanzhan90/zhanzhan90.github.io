@@ -22,14 +22,14 @@ Education
 .media:after{clear:both;display:block;width:0;height:0;content:""}
 .pull-left{float:left;border:0 solid #ccc}
 .pull-left img{width:75px;}
-.media-body{float:left;margin-left:10px;font-size:16px;}
+.media-body{width:70%;float:left;margin-left:10px;}
 <!-- Thanks to Fengling for this style codes -->
 </style>
 
 <div class="media">
     <span class="pull-left"><img src="images/nku.png" width="75px" height="75px"/></span>
     <div class="media-body">
-        <div><span style="font-weight: bold">B.S. Biological Science (Poling Class)</span></div>
+        <div><span style="font-weight: bold">B.S. Biological Science</span></div>
         <div>Nankai University, 2023</div>
         <div>Advisor: Prof. Xinglu Huang</div>
     </div>
@@ -40,6 +40,7 @@ Education
     <div class="media-body">
         <div><span style="font-weight: bold">Poling Honors Degree</span></div>
         <div>Nankai University, 2023</div>
+        <div>(Poling Class)</div>
     </div>
 </div>
 
