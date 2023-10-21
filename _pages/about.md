@@ -46,7 +46,7 @@ Education
 Work Experiences
 ------
 <div class="media">
-    <span class="pull-left"><img src="images/ucsf.png" width="75px" height="75px"/></span>
+    <span class="pull-left"><img src="images/ucsf.png" width="75px" height="37.5px"/></span>
     <div class="media-body">
         <div><span style="font-weight: bold">Visiting Student</span></div>
         <div>Institute for Human Genetics</div>
