@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: ""
+title: false
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -10,11 +10,20 @@ redirect_from:
 
 
 Reseach Interest
-------
+======
 Genomics & Epigenomics, Bioinformatics, Sequencing Techniques
 
 Education
-------
+======
+<table border="0"> 
+  <tbody>
+    <tr> 
+      <th><img src="images/nku.png" width="75px" height="75px"/></th> 
+      <th><span style="font-weight: bold"> 2023   B.S. Biological Science (Poling Class)</span></br> Nankai University </br> Advisor: Prof. Xinglu Huang</th> 
+      </tr> 
+  </tbody>
+</table> 
+
 <div class="media">
     <span class="pull-left"><img src="images/nku.png" width="75px" height="75px"/></span>
     <div class="media-body">
