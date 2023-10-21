@@ -23,7 +23,6 @@ Education
 .pull-left{float:left;border:0 solid #ccc}
 .pull-left img{width:75px;}
 .media-body{width:70%;float:left;margin-left:10px;}
-<!-- Thanks to Fengling for this style codes -->
 </style>
 
 <div class="media">
