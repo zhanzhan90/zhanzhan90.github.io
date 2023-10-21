@@ -21,7 +21,7 @@ Education
 .media{width:1000px;margin:0 auto;border:0 solid #ccc;padding:10px 0;}
 .media:after{clear:both;display:block;width:0;height:0;content:""}
 .pull-left{height:75px;float:left;border:0 solid #ccc}
-.pull-left img{height:75px;}
+.pull-left img{width:75px;}
 .media-body{float:left;width:450px;margin-left:10px;font-size:16px;}
 <!-- Thanks to Fengling for this style codes -->
 </style>
