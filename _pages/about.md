@@ -18,8 +18,8 @@ Education
 <table border="0"> 
   <tbody>
     <tr> 
-      <th><img src="images/nku.png" width="75px" height="75px"/></th> 
-      <th><span style="font-weight: bold"> 2023   B.S. Biological Science (Poling Class)</span></br> Nankai University </br> Advisor: Prof. Xinglu Huang</th> 
+      <td><img src="images/nku.png" width="75px" height="75px"/></td> 
+      <td><b> 2023   B.S. Biological Science (Poling Class)</b><br /> Nankai University <br /> Advisor: Prof. Xinglu Huang</td> 
       </tr> 
   </tbody>
 </table> 
