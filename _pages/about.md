@@ -22,7 +22,7 @@ Education
 .media:after{clear:both;display:block;width:0;height:0;content:""}
 .pull-left{height:75px;float:left;border:0 solid #ccc}
 .pull-left img{width:75px;}
-.media-body{float:left;width:100%;margin-left:10px;font-size:16px;}
+.media-body{float:left;margin-left:10px;font-size:16px;}
 <!-- Thanks to Fengling for this style codes -->
 </style>
 
