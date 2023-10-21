@@ -66,7 +66,7 @@ Work Experiences
 Publications
 ------
 
-Also see my [Google Scholar Profile](https://scholar.google.com/citations?user=GFkNo_IAAAAJ).
+Also see my [Google Scholar Profile](https://scholar.google.com/citations?user=GFkNo_IAAAAJ&hl=en).
 
 Academic Awards
 ------
