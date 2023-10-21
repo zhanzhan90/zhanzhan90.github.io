@@ -14,7 +14,7 @@ Reseach Interest
 Genomics & Epigenomics, Bioinformatics, Sequencing Techniques
 
 Education
-======
+------
 <meta http-equiv="Content-Type" content="text/html;charset=utf-8">
 <style type="text/css">
 *{padding:0;margin:0;}
@@ -44,3 +44,23 @@ Education
 </div>
 
 <script type="text/javascript" src="//rf.revolvermaps.com/0/0/8.js?i=5sgot2dxrbg&amp;m=0c&amp;c=ff0000&amp;cr1=ffffff&amp;f=calibri&amp;l=49&amp;s=200&amp;cw=ffffff&amp;cb=000000" async="async"></script>
+
+Work Experiences
+------
+<div class="media">
+    <span class="pull-left"><img src="images/ucsf.png" width="75px" height="75px"/></span>
+    <div class="media-body">
+        <div><span style="font-weight: bold">Visiting Student</span></div>
+        <div>Institute for Human Genetics</div>
+        <div>University of California, San Francisco (UCSF), 2021-2022</div>
+    </div>
+</div>
+
+<div class="media">
+    <span class="pull-left"><img src="images/thu.png" width="75px" height="75px"/></span>
+    <div class="media-body">
+        <div><span style="font-weight: bold">Intern</span></div>
+        <div>National Engineering Lab of Neuromodulation</div>
+        <div>Tsinghua University, 2021</div>
+    </div>
+</div>
