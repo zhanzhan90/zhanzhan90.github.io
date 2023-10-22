@@ -29,8 +29,8 @@ Education
     <span class="pull-left"><img src="images/nku.png" width="75px" height="75px"/></span>
     <div class="media-body">
         <div><span style="font-weight: bold">B.S. Biological Science (Poling Class)</span></div>
-        <div>Nankai University, 2023</div>
         <div>Advisor: Prof. Xinglu Huang</div>
+        <div>Nankai University, 2023</div>
     </div>
 </div>
 
