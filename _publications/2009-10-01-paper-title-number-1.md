@@ -3,7 +3,7 @@ title: ""
 collection: publications
 permalink: /publication/2009-10-01-paper-title-number-1
 excerpt: ''
-date: 
+date: 2000-01-01
 venue: ''
 paperurl: 'https://scholar.google.com/citations?user=GFkNo_IAAAAJ&hl=en'
 citation: ''
