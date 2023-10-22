@@ -72,7 +72,7 @@ Academic Awards
 ------
 
  * Poling Honors Degree, Nankai University
- * Excellent Graduation Thesis, Nankai University
+ * Distinguished Undergraduate Thesis, Nankai University
  * Scholarship of Academic Progress, Nankai University
  * Third Prize in Innovative Scientific Research for Undergraduates of Nankai University
 
