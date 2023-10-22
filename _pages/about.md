@@ -83,6 +83,34 @@ Technical Skills
 
 [![](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)]()
 [![](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)]()
+[![](https://img.shields.io/badge/Shell-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)]()
+[![](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)]()
+[![](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)]()
+[![](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)]()
+
+### Software
+
+[![](https://img.shields.io/badge/NGINX-009639?style=for-the-badge&logo=nginx&logoColor=white)]()
+[![](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)]()
+[![](https://img.shields.io/badge/Conda-342B029?&style=for-the-badge&logo=anaconda&logoColor=white)]()
+[![](https://img.shields.io/badge/VS%20Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)]()
+[![](https://img.shields.io/badge/RStudio-75AADB?style=for-the-badge&logo=rstudio&logoColor=white)]()
+[![](https://img.shields.io/badge/AI-FF9A00?&style=for-the-badge&logo=Adobe%20Illustrator&logoColor=white)]()
+[![](https://img.shields.io/badge/Seurat-276DC3?style=for-the-badge&logo=r&logoColor=white)]()
+[![](https://img.shields.io/badge/Cloudflare-F38020?&style=for-the-badge&logo=Cloudflare&logoColor=white)]()
+[![](https://img.shields.io/badge/Overleaf-47A141?&style=for-the-badge&logo=Overleaf&logoColor=white)]()
+[![](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)]()
+[![](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white)]()
+[![](https://img.shields.io/badge/Windows-0067B8?style=for-the-badge&logo=windows%2011&logoColor=white)]()
+[![](https://img.shields.io/badge/Truenas-0095D5?style=for-the-badge&logo=truenas&logoColor=white)]()
+[![](https://img.shields.io/badge/Unraid-F15A2C?style=for-the-badge&logo=unraid&logoColor=white)]()
+[![](https://img.shields.io/badge/OpenWrt-00B5E2?style=for-the-badge&logo=OpenWrt&logoColor=white)]()
+[![](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=Raspberry%20Pi&logoColor=white)]()
+[![](https://img.shields.io/badge/Flask-ffffff?style=for-the-badge&logo=flask&logoColor=black)]()
+
+### Wet Lab
+
+Molecular Clone, Cell Culture, Sequencing (RNA-seq, ATAC-seq, etc.), CRISPR Screen, Mutagenesis, mRNA Display, etc.
 
 
 <div style="text-align:center">
