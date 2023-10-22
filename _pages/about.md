@@ -49,6 +49,7 @@ Work Experiences
     <div class="media-body">
         <div><span style="font-weight: bold">Visiting Student</span></div>
         <div>Institute for Human Genetics</div>
+        <div>Advisor: Prof. Yin Shen</div>
         <div>UCSF, 2021-2022</div>
     </div>
 </div>
@@ -78,7 +79,7 @@ Academic Awards
 Technical Skills
 ------
 
-## Languages
+### Languages
 
 
 
