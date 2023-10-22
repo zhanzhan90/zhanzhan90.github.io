@@ -28,7 +28,7 @@ Education
 <div class="media">
     <span class="pull-left"><img src="images/nku.png" width="75px" height="75px"/></span>
     <div class="media-body">
-        <div><span style="font-weight: bold">B.S. Biological Science</span></div>
+        <div><span style="font-weight: bold">B.S. Biological Science (Poling Class)</span></div>
         <div>Nankai University, 2023</div>
         <div>Advisor: Prof. Xinglu Huang</div>
     </div>
@@ -39,7 +39,6 @@ Education
     <div class="media-body">
         <div><span style="font-weight: bold">Poling Honors Degree</span></div>
         <div>Nankai University, 2023</div>
-        <div>(Poling Class)</div>
     </div>
 </div>
 
@@ -50,7 +49,7 @@ Work Experiences
     <div class="media-body">
         <div><span style="font-weight: bold">Visiting Student</span></div>
         <div>Institute for Human Genetics</div>
-        <div><sup>UC</sup><sub>SF</sub>, 2021-2022</div>
+        <div>UCSF, 2021-2022</div>
     </div>
 </div>
 
