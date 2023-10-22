@@ -96,7 +96,6 @@ Technical Skills
 [![](https://img.shields.io/badge/VS%20Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)]()
 [![](https://img.shields.io/badge/RStudio-75AADB?style=for-the-badge&logo=rstudio&logoColor=white)]()
 [![](https://img.shields.io/badge/AI-FF9A00?&style=for-the-badge&logo=Adobe%20Illustrator&logoColor=white)]()
-[![](https://img.shields.io/badge/Seurat-276DC3?style=for-the-badge&logo=r&logoColor=white)]()
 [![](https://img.shields.io/badge/Cloudflare-F38020?&style=for-the-badge&logo=Cloudflare&logoColor=white)]()
 [![](https://img.shields.io/badge/Overleaf-47A141?&style=for-the-badge&logo=Overleaf&logoColor=white)]()
 [![](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)]()
@@ -107,6 +106,8 @@ Technical Skills
 [![](https://img.shields.io/badge/OpenWrt-00B5E2?style=for-the-badge&logo=OpenWrt&logoColor=white)]()
 [![](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=Raspberry%20Pi&logoColor=white)]()
 [![](https://img.shields.io/badge/Flask-ffffff?style=for-the-badge&logo=flask&logoColor=black)]()
+[![](https://img.shields.io/badge/Seurat-276DC3?style=for-the-badge&logo=r&logoColor=white)]()
+[![](https://img.shields.io/badge/ggplot2-276DC3?style=for-the-badge&logo=r&logoColor=white)]()
 
 ### Wet Lab
 
