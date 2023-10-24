@@ -65,8 +65,39 @@ Work Experiences
 
 Publications
 ------
+<style>
+.pub_title{font-size:16px;}
+.pub_author{font-size:16px;}
+.pub_journal{font-size:16px;}
+.subtitle{ 
+    font-size:16px;           
+    width: 100%;  
+    height: 40px; 
+    text-align:center     
+} 
+</style>
 
 Also see my [Google Scholar Profile](https://scholar.google.com/citations?user=GFkNo_IAAAAJ&hl=en).
+
+<table>
+
+<tr>
+<td><img class="proj_thumb" src="images/NChem2023.png" width="300px" alt=""/>&nbsp;</td>
+<td><div class="pub_title"> Genetically encoded chemical crosslinking of RNA in vivo </div>
+<div class="pub_author"> Sun, W.*, Wang, N.*, <b>Liu, H.</b>, Yu, H., ... Shen, Y., Wang, L.#</div>
+<div class="pub_journal"><b>Nature Chemistry</b>, 2023 [<a href="https://doi.org/10.1038/s41557-022-01038-4">Paper</a>] [<a href="https://github.com/Shall-We-Dance/GRIP-seq">GitHub</a>] [<a href="https://www.ncbi.nlm.nih.gov/bioproject/PRJNA797913">NCBI SRA</a>]</div>
+</td>
+</tr>
+
+<tr>
+<td><img class="proj_thumb" src="images/NG2023.png" width="300px" alt=""/>&nbsp;</td>
+<td><div class="pub_title"> Functional Characterization of Alzheimer’s Disease Genetic Variants in Microglia. </div>
+<div class="pub_author"> Yang, X., Wen, J., Yang, H., Jones, I., ... <b>Liu, H.*</b>, ... & Shen, Y.# </div>
+<div class="pub_journal"><b>Nature Genetics</b>, 2023 [<a href="https://doi.org/10.1038/s41588-023-01506-8">Paper</a>]</div>
+</td>
+</tr>
+
+</table>
 
 Academic Awards
 ------
