@@ -87,6 +87,7 @@ Technical Skills
 [![](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)]()
 [![](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)]()
 [![](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)]()
+[![](https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white)]()
 
 ### Software
 
@@ -105,6 +106,8 @@ Technical Skills
 [![](https://img.shields.io/badge/Unraid-F15A2C?style=for-the-badge&logo=unraid&logoColor=white)]()
 [![](https://img.shields.io/badge/OpenWrt-00B5E2?style=for-the-badge&logo=OpenWrt&logoColor=white)]()
 [![](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=Raspberry%20Pi&logoColor=white)]()
+
+
 [![](https://img.shields.io/badge/Flask-ffffff?style=for-the-badge&logo=flask&logoColor=black)]()
 [![](https://img.shields.io/badge/Seurat-276DC3?style=for-the-badge&logo=r&logoColor=white)]()
 [![](https://img.shields.io/badge/ggplot2-276DC3?style=for-the-badge&logo=r&logoColor=white)]()
