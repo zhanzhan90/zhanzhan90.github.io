@@ -123,7 +123,7 @@ Also see my [Google Scholar Profile](https://scholar.google.com/citations?user=G
 
 </table>
 
-Academic Awards
+Awards
 ------
 
  * Poling Honors Degree, Nankai University
