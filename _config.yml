@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Hongjiang Liu's CV"
+title                    : "Hongjiang Liu's Homepage"
 title_separator          : "-"
 name                     : &name "Hongjiang Liu"
 description              : &description "personal description"
