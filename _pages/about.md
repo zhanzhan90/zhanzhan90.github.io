@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 
-Reseach Interest
+Reseach Interests
 ======
 Genomics & Epigenomics, Bioinformatics, Sequencing Techniques
 
@@ -118,6 +118,7 @@ Technical Skills
 [![](https://img.shields.io/badge/Flask-ffffff?style=for-the-badge&logo=flask&logoColor=black)]()
 [![](https://img.shields.io/badge/Seurat-276DC3?style=for-the-badge&logo=r&logoColor=white)]()
 [![](https://img.shields.io/badge/ggplot2-276DC3?style=for-the-badge&logo=r&logoColor=white)]()
+[![](https://img.shields.io/badge/dplyr-276DC3?style=for-the-badge&logo=r&logoColor=white)]()
 
 ### Wet Lab
 
