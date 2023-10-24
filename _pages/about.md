@@ -85,7 +85,7 @@ Also see my [Google Scholar Profile](https://scholar.google.com/citations?user=G
 <td><img class="proj_thumb" src="images/NChem2023.png" width="350px" alt=""/>&nbsp;</td>
 <td><div class="pub_title"> Genetically encoded chemical crosslinking of RNA in vivo </div>
 <div class="pub_author"> Sun, W.*, Wang, N.*, <b>Liu, H.</b>, Yu, H., ... Shen, Y., Wang, L.#</div>
-<i><div class="pub_journal"><b>Nature Chemistry</b>, 2023</i> [<a href="https://doi.org/10.1038/s41557-022-01038-4">Paper</a>] [<a href="https://github.com/Shall-We-Dance/GRIP-seq">GitHub</a>] [<a href="https://www.ncbi.nlm.nih.gov/bioproject/PRJNA797913">NCBI SRA</a>]</div>
+<div class="pub_journal"><i><b>Nature Chemistry</b>, 2023</i> [<a href="https://doi.org/10.1038/s41557-022-01038-4">Paper</a>] [<a href="https://github.com/Shall-We-Dance/GRIP-seq">GitHub</a>] [<a href="https://www.ncbi.nlm.nih.gov/bioproject/PRJNA797913">NCBI SRA</a>]</div>
 </td>
 </tr>
 
@@ -93,7 +93,7 @@ Also see my [Google Scholar Profile](https://scholar.google.com/citations?user=G
 <td><img class="proj_thumb" src="images/NG2023.png" width="350px" alt=""/>&nbsp;</td>
 <td><div class="pub_title"> Functional Characterization of Alzheimer’s Disease Genetic Variants in Microglia </div>
 <div class="pub_author"> Yang, X., Wen, J., Yang, H., Jones, I., ... , <b>Liu, H.</b>, ... & Shen, Y.# </div>
-<i><div class="pub_journal"><b>Nature Genetics</b>, 2023</i> [<a href="https://doi.org/10.1038/s41588-023-01506-8">Paper</a>]</div>
+<div class="pub_journal"><i><b>Nature Genetics</b>, 2023</i> [<a href="https://doi.org/10.1038/s41588-023-01506-8">Paper</a>]</div>
 </td>
 </tr>
 
@@ -101,7 +101,7 @@ Also see my [Google Scholar Profile](https://scholar.google.com/citations?user=G
 <td><img class="proj_thumb" src="images/bioRxiv2022.png" width="350px" alt=""/>&nbsp;</td>
 <td><div class="pub_title"> Phase separation of Myc differentially modulates the transcriptome </div>
 <div class="pub_author"> Yang, J.*, Chung, C.*, Koach, J., <b>Liu, H.</b>, ... , Shu, X.# </div>
-<i><div class="pub_journal"><b>bioRxiv</b>, 2022</i> [<a href="https://doi.org/10.1101/2022.06.28.498043">Preprint</a>]</div>
+<div class="pub_journal"><i><b>bioRxiv</b>, 2022</i> [<a href="https://doi.org/10.1101/2022.06.28.498043">Preprint</a>]</div>
 </td>
 </tr>
 
@@ -109,7 +109,7 @@ Also see my [Google Scholar Profile](https://scholar.google.com/citations?user=G
 <td><img class="proj_thumb" src="images/adma2022.png" width="350px" alt=""/>&nbsp;</td>
 <td><div class="pub_title"> Prediction and Design of Nanozymes Using Explainable Machine Learning </div>
 <div class="pub_author"> Wei, Y., Wu, J., Wu, Y., <b>Liu, H.</b>, ... , Huang, X.# </div>
-<i><div class="pub_journal"><b>Advanced Material</b>, 2022</i> [<a href="https://doi.org/10.1002/adma.202201736">Paper</a>]</div>
+<div class="pub_journal"><i><b>Advanced Material</b>, 2022</i> [<a href="https://doi.org/10.1002/adma.202201736">Paper</a>]</div>
 </td>
 </tr>
 
@@ -117,7 +117,7 @@ Also see my [Google Scholar Profile](https://scholar.google.com/citations?user=G
 <td><img class="proj_thumb" src="images/thno2022.png" width="350px" alt=""/>&nbsp;</td>
 <td><div class="pub_title"> Bioorthogonal catalytic nanozyme-mediated lysosomal membrane leakage for targeted drug delivery </div>
 <div class="pub_author"> Sun, Z., Liu, Q., Wang, X., Wu, J., ... , <b>Liu, H.</b>, ... & Huang, X.# </div>
-<i><div class="pub_journal"><b>Theranostics</b>, 2022</i> [<a href="https://doi.org/10.7150/thno.66325">Paper</a>]</div>
+<div class="pub_journal"><i><b>Theranostics</b>, 2022</i> [<a href="https://doi.org/10.7150/thno.66325">Paper</a>]</div>
 </td>
 </tr>
 
