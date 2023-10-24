@@ -91,9 +91,17 @@ Also see my [Google Scholar Profile](https://scholar.google.com/citations?user=G
 
 <tr>
 <td><img class="proj_thumb" src="images/NG2023.png" width="250px" alt=""/>&nbsp;</td>
-<td><div class="pub_title"> Functional Characterization of Alzheimer’s Disease Genetic Variants in Microglia. </div>
-<div class="pub_author"> Yang, X., Wen, J., Yang, H., Jones, I., ... <b>Liu, H.</b>, ... & Shen, Y.# </div>
+<td><div class="pub_title"> Functional Characterization of Alzheimer’s Disease Genetic Variants in Microglia </div>
+<div class="pub_author"> Yang, X., Wen, J., Yang, H., Jones, I., ... ,<b>Liu, H.</b>, ... & Shen, Y.# </div>
 <div class="pub_journal"><b>Nature Genetics</b>, 2023 [<a href="https://doi.org/10.1038/s41588-023-01506-8">Paper</a>]</div>
+</td>
+</tr>
+
+<tr>
+<td><img class="proj_thumb" src="images/bioRxiv2022.png" width="250px" alt=""/>&nbsp;</td>
+<td><div class="pub_title"> Phase separation of Myc differentially modulates the transcriptome </div>
+<div class="pub_author"> Yang, J.*, Chung, C.*, Koach, J., <b>Liu, H.</b>, ... ,Shu, X.# </div>
+<div class="pub_journal"><b>bioRxiv</b>, 2022 [<a href="https://doi.org/10.1101/2022.06.28.498043">Preprint</a>]</div>
 </td>
 </tr>
 
