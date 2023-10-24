@@ -101,7 +101,7 @@ Technical Skills
 [![](https://img.shields.io/badge/Overleaf-47A141?&style=for-the-badge&logo=Overleaf&logoColor=white)]()
 [![](https://img.shields.io/badge/ImageJ-00D8E0?&style=for-the-badge&logo=imagej&logoColor=white)]()
 [![](https://img.shields.io/badge/SnapGene-5DB1D9?&style=for-the-badge&logoColor=white)]()
-[![](https://img.shields.io/badge/Benching-020DAE?&style=for-the-badge&logoColor=white)]()
+[![](https://img.shields.io/badge/Benchling-020DAE?&style=for-the-badge&logoColor=white)]()
 [![](https://img.shields.io/badge/Zotero-CC2936?&style=for-the-badge&logo=zotero&logoColor=white)]()
 [![](https://img.shields.io/badge/Draw.io-F08705?&style=for-the-badge&logo=diagramsdotnet&logoColor=white)]()
 [![](https://img.shields.io/badge/MS%20Office-D83B01?&style=for-the-badge&logo=microsoftoffice&logoColor=white)]()
