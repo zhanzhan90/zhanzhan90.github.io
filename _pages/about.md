@@ -165,7 +165,7 @@ Technical Skills
 [![](https://img.shields.io/badge/Windows-0067B8?style=for-the-badge&logo=windows%2011&logoColor=white)]()
 [![](https://img.shields.io/badge/Truenas-0095D5?style=for-the-badge&logo=truenas&logoColor=white)]()
 [![](https://img.shields.io/badge/Unraid-F15A2C?style=for-the-badge&logo=unraid&logoColor=white)]()
-[![](https://img.shields.io/badge/Synology-B5B5B6?style=for-the-badge&logo=synology&logoColor=white)]()
+[![](https://img.shields.io/badge/Synology-000000?style=for-the-badge&logo=synology&logoColor=white)]()
 [![](https://img.shields.io/badge/OpenWrt-00B5E2?style=for-the-badge&logo=OpenWrt&logoColor=white)]()
 [![](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=Raspberry%20Pi&logoColor=white)]()
 
@@ -174,10 +174,21 @@ Technical Skills
 [![](https://img.shields.io/badge/Seurat-276DC3?style=for-the-badge&logo=r&logoColor=white)]()
 [![](https://img.shields.io/badge/ggplot2-276DC3?style=for-the-badge&logo=r&logoColor=white)]()
 [![](https://img.shields.io/badge/dplyr-276DC3?style=for-the-badge&logo=r&logoColor=white)]()
+[![](https://img.shields.io/badge/edgeR-276DC3?style=for-the-badge&logo=r&logoColor=white)]()
+[![](https://img.shields.io/badge/clusterProfiler-276DC3?style=for-the-badge&logo=r&logoColor=white)]()
+[![](https://img.shields.io/badge/pheatmap-276DC3?style=for-the-badge&logo=r&logoColor=white)]()
+[![](https://img.shields.io/badge/alphafold2-2152CE?style=for-the-badge&logo=python&logoColor=white)]()
 
 ### Wet Lab
 
-Molecular Clone, Cell Culture, Sequencing (RNA-seq, ATAC-seq, etc.), CRISPR Screen, Mutagenesis, mRNA Display, etc.
+[![](https://img.shields.io/badge/Molecular%20Clone-ffffff?style=for-the-badge&logoColor=black)]()
+[![](https://img.shields.io/badge/Cell%20Culture-ffffff?style=for-the-badge&logoColor=black)]()
+[![](https://img.shields.io/badge/RNA-seq-ffffff?style=for-the-badge&logoColor=black)]()
+[![](https://img.shields.io/badge/ATAC-seq-ffffff?style=for-the-badge&logoColor=black)]()
+[![](https://img.shields.io/badge/CRISPR%20Screen-ffffff?style=for-the-badge&logoColor=black)]()
+[![](https://img.shields.io/badge/lentivirus-ffffff?style=for-the-badge&logoColor=black)]()
+[![](https://img.shields.io/badge/Mutagenesis-ffffff?style=for-the-badge&logoColor=black)]()
+[![](https://img.shields.io/badge/mRNA%20Display-ffffff?style=for-the-badge&logoColor=black)]()
 
 
 <div style="text-align:center">
