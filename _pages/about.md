@@ -79,7 +79,7 @@ Publications
 
 Also see my [Google Scholar Profile](https://scholar.google.com/citations?user=GFkNo_IAAAAJ&hl=en).
 
-There are two unpublished papers under revision submiited to <i>Nature</i> and <i>NSMB</i>. (as co-author)
+There are two unpublished papers under revision submitted to <i>Nature</i> and <i>NSMB</i>. (as co-author)
 
 <table>
 
