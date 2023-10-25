@@ -181,14 +181,7 @@ Technical Skills
 
 ### Wet Lab
 
-[![](https://img.shields.io/badge/Molecular%20Clone-ffffff?style=for-the-badge&logoColor=black)]()
-[![](https://img.shields.io/badge/Cell%20Culture-ffffff?style=for-the-badge&logoColor=black)]()
-[![](https://img.shields.io/badge/RNA-seq-ffffff?style=for-the-badge&logoColor=black)]()
-[![](https://img.shields.io/badge/ATAC-seq-ffffff?style=for-the-badge&logoColor=black)]()
-[![](https://img.shields.io/badge/CRISPR%20Screen-ffffff?style=for-the-badge&logoColor=black)]()
-[![](https://img.shields.io/badge/lentivirus-ffffff?style=for-the-badge&logoColor=black)]()
-[![](https://img.shields.io/badge/Mutagenesis-ffffff?style=for-the-badge&logoColor=black)]()
-[![](https://img.shields.io/badge/mRNA%20Display-ffffff?style=for-the-badge&logoColor=black)]()
+Molecular Clone, Cell Culture, Sequencing (RNA-seq, ATAC-seq, etc.), CRISPR Screen, Lentivirus, Mutagenesis, mRNA Display, etc.
 
 
 <div style="text-align:center">
