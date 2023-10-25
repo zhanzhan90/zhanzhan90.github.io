@@ -177,7 +177,12 @@ Technical Skills
 [![](https://img.shields.io/badge/edgeR-276DC3?style=for-the-badge&logo=r&logoColor=white)]()
 [![](https://img.shields.io/badge/clusterProfiler-276DC3?style=for-the-badge&logo=r&logoColor=white)]()
 [![](https://img.shields.io/badge/pheatmap-276DC3?style=for-the-badge&logo=r&logoColor=white)]()
+[![](https://img.shields.io/badge/UpSetR-276DC3?style=for-the-badge&logo=r&logoColor=white)]()
+[![](https://img.shields.io/badge/caret-276DC3?style=for-the-badge&logo=r&logoColor=white)]()
 [![](https://img.shields.io/badge/alphafold2-2152CE?style=for-the-badge&logo=python&logoColor=white)]()
+[![](https://img.shields.io/badge/CRISPResso-2152CE?style=for-the-badge&logo=python&logoColor=white)]()
+[![](https://img.shields.io/badge/ViennaRNA-A8B9CC?style=for-the-badge&logo=c&logoColor=white)]()
+[![](https://img.shields.io/badge/STAR-A8B9CC?style=for-the-badge&logo=c&logoColor=white)]()
 
 ### Wet Lab
 
