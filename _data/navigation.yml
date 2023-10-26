@@ -1,6 +1,11 @@
 # main links links
 main:
     
-  - title: "CV in .pdf"
+  - title: "CV"
     url: /files/CV_Hongjiang_Liu.pdf
 
+    - title: "Talks"
+    url: /talks/  
+  
+  - title: "Blog Posts"
+    url: /posts/
