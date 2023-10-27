@@ -160,6 +160,8 @@ Technical Skills
 [![](https://img.shields.io/badge/Zotero-CC2936?&style=for-the-badge&logo=zotero&logoColor=white)]()
 [![](https://img.shields.io/badge/Draw.io-F08705?&style=for-the-badge&logo=diagramsdotnet&logoColor=white)]()
 [![](https://img.shields.io/badge/MS%20Office-D83B01?&style=for-the-badge&logo=microsoftoffice&logoColor=white)]()
+[![](https://img.shields.io/badge/Netdata-4CA851?&style=for-the-badge&logoColor=white)]()
+[![](https://img.shields.io/badge/Jellyfin-00A4DC?&style=for-the-badge&logo=Jellyfin&logoColor=white)]()
 [![](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)]()
 [![](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white)]()
 [![](https://img.shields.io/badge/Windows-0067B8?style=for-the-badge&logo=windows%2011&logoColor=white)]()
