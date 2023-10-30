@@ -189,7 +189,7 @@ Technical Skills
 
 ### Wet Lab
 
-Molecular Clone, Cell Culture, Sequencing (RNA-seq, ATAC-seq, etc.), CRISPR Screen, Lentivirus, Mutagenesis, mRNA Display, etc.
+Molecular Clone, Cell Culture, ATAC-seq, Smart-seq2, mRNA Display, Mutagenesis, CRISPR Screen, Lentivirus, etc.
 
 
 <div style="text-align:center">
