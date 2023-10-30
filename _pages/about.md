@@ -11,7 +11,7 @@ redirect_from:
 
 Reseach Interests
 ======
-Genomics & Epigenomics, Bioinformatics, Development and Application of Sequencing Techniques
+Genomics (Functional, Computational), Epigenomics, Bioinformatics, Development and Application of Sequencing Techniques
 
 Education
 ------
