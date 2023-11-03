@@ -163,12 +163,18 @@ Technical Skills
 [![](https://img.shields.io/badge/pheatmap-276DC3?style=for-the-badge&logo=r&logoColor=white)]()
 [![](https://img.shields.io/badge/UpSetR-276DC3?style=for-the-badge&logo=r&logoColor=white)]()
 [![](https://img.shields.io/badge/caret-276DC3?style=for-the-badge&logo=r&logoColor=white)]()
+[![](https://img.shields.io/badge/WGCNA-276DC3?style=for-the-badge&logo=r&logoColor=white)]()
 [![](https://img.shields.io/badge/alphafold2-2152CE?style=for-the-badge&logo=python&logoColor=white)]()
 [![](https://img.shields.io/badge/CRISPResso-3776AB?style=for-the-badge&logo=python&logoColor=white)]()
+[![](https://img.shields.io/badge/pegLIT-3776AB?style=for-the-badge&logo=python&logoColor=white)]()
 [![](https://img.shields.io/badge/MACS-3776AB?style=for-the-badge&logo=python&logoColor=white)]()
 [![](https://img.shields.io/badge/ViennaRNA-A8B9CC?style=for-the-badge&logo=c&logoColor=white)]()
 [![](https://img.shields.io/badge/STAR-A8B9CC?style=for-the-badge&logo=c&logoColor=white)]()
 [![](https://img.shields.io/badge/fastp-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)]()
+[![](https://img.shields.io/badge/Bedtools-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)]()
+[![](https://img.shields.io/badge/Samtools-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)]()
+[![](https://img.shields.io/badge/MEME-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)]()
+[![](https://img.shields.io/badge/FIMO-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)]()
 
 ### Software
 
