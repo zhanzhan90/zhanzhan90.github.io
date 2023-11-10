@@ -196,6 +196,8 @@ Technical Skills
 [![](https://img.shields.io/badge/Jellyfin-00A4DC?&style=for-the-badge&logo=Jellyfin&logoColor=white)]()
 [![](https://img.shields.io/badge/BioRender-3C6FB2?&style=for-the-badge&logoColor=white)]()
 
+<a href="https://alphafold.lnsgroup.cc:5001" target="_blank">AlphaFold at LNS Group</a>
+
 ### Systems
 
 [![](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)]()
