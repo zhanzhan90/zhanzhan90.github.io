@@ -176,6 +176,8 @@ Technical Skills
 [![](https://img.shields.io/badge/MEME-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)]()
 [![](https://img.shields.io/badge/FIMO-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)]()
 
+<a href="https://alphafold.lnsgroup.cc:5001" target="_blank">AlphaFold at LNS Group</a>
+
 ### Software
 
 [![](https://img.shields.io/badge/NGINX-009639?style=for-the-badge&logo=nginx&logoColor=white)]()
@@ -195,8 +197,6 @@ Technical Skills
 [![](https://img.shields.io/badge/Netdata-4CA851?&style=for-the-badge&logoColor=white)]()
 [![](https://img.shields.io/badge/Jellyfin-00A4DC?&style=for-the-badge&logo=Jellyfin&logoColor=white)]()
 [![](https://img.shields.io/badge/BioRender-3C6FB2?&style=for-the-badge&logoColor=white)]()
-
-<a href="https://alphafold.lnsgroup.cc:5001" target="_blank">AlphaFold at LNS Group</a>
 
 ### Systems
 
