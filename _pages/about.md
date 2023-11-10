@@ -194,6 +194,7 @@ Technical Skills
 [![](https://img.shields.io/badge/MS%20Office-D83B01?&style=for-the-badge&logo=microsoftoffice&logoColor=white)]()
 [![](https://img.shields.io/badge/Netdata-4CA851?&style=for-the-badge&logoColor=white)]()
 [![](https://img.shields.io/badge/Jellyfin-00A4DC?&style=for-the-badge&logo=Jellyfin&logoColor=white)]()
+[![](https://img.shields.io/badge/BioRender-3C6FB2?&style=for-the-badge&logoColor=white)]()
 
 ### Systems
 
