@@ -44,6 +44,58 @@ tags:
   <td>Intel Xeon E5-2623 v3</td>
   <td>02/02/23</td>
 </tr>
+<tr>
+  <td>Intel Xeon E5-2620 v3</td>
+  <td>01/02/23</td>
+</tr>
+<tr>
+  <td>Intel Xeon X5570</td>
+  <td>01/02/23</td>
+</tr>
+<tr>
+  <td>Intel Xeon L5630</td>
+  <td>12/29/22</td>
+</tr>
+<tr>
+  <td>Intel Xeon E7-4820</td>
+  <td>12/29/22</td>
+</tr>
+<tr>
+  <td>Intel Xeon E5-4610</td>
+  <td>12/24/22</td>
+</tr>
+<tr>
+  <td>Intel Xeon E5-2630 v2</td>
+  <td>12/24/22</td>
+</tr>
+<tr>
+  <td>Intel Core i5-750</td>
+  <td>12/22/22</td>
+</tr>
+<tr>
+  <td>Intel Pentium G6950</td>
+  <td>12/20/22</td>
+</tr>
+<tr>
+  <td>Intel Xeon E5-2420</td>
+  <td>12/19/22</td>
+</tr>
+<tr>
+  <td>Intel Celeron G1101</td>
+  <td>12/19/22</td>
+</tr>
+<tr>
+  <td>Intel Xeon E3-1265L v3 (2)</td>
+  <td>07/14/22</td>
+</tr>
+<tr>
+  <td>Intel Xeon X5687 (2)</td>
+  <td>08/12/20</td>
+</tr>
+<tr>
+  <td>Intel Xeon E3-1230 v2</td>
+  <td>06/27/20</td>
+</tr>
 </table>
 
 <div class="subtitle"><b>- GPUs -</b></div>
