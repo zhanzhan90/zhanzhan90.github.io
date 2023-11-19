@@ -151,8 +151,29 @@ tags:
   <th>Date of Collection</th>
 </tr>
 <tr>
-  <td>HPE InfiniBand 544+FLR-QSFP (40Gb 2-port)</td>
+  <td>HPE InfiniBand 544+FLR-QSFP (40Gb 2-port HCAs)</td>
   <td>10/11/23</td>
 </tr>
+<tr>
+  <td>Intel Dual Band Wireless-AC 8265 (miniPCIe)</td>
+  <td>10/05/23</td>
+</tr>
+<tr>
+  <td>Intel X540-T2 (10Gb 2-port PCIe) (Inspur)</td>
+  <td>06/09/23</td>
+</tr>
+<tr>
+  <td>Intel Dual Band Wireless-AC 8260 (NGFF)</td>
+  <td>02/19/23</td>
+</tr>
+<tr>
+  <td>TP-LINK TL-NG421 (2.5Gb PCIe) (RTL8125B)</td>
+  <td>02/06/23</td>
+</tr>
 </table>
+
+<div class="subtitle"><b>- SSDs -</b></div>
+
+<div class="subtitle"><b>- HDDs -</b></div>
+
 <div class="subtitle"><b>- Phones -</b></div>
