@@ -18,6 +18,7 @@ tags:
     text-align:center     
 } 
 </style>
+<p>Every hardware has its own unique narrative, and I find great satisfaction in collecting and preserving these stories. It's a testament to the evolution of technology and the countless innovations that shape our digital landscape.</p>
 
 <div class="subtitle"><b>- CPUs -</b></div>
 <table>
@@ -137,7 +138,12 @@ tags:
   <td>NVIDIA GeForce GTX 1060 3G (Inno3D)</td>
   <td>01/04/23</td>
 </tr>
+<tr>
+  <td>NVIDIA GeForce GTX 750 Ti 2G (MSi)</td>
+  <td>07/17/19</td>
+</tr>
 </table>
+
 <div class="subtitle"><b>- Network Cards -</b></div>
 <table>
 <tr>
