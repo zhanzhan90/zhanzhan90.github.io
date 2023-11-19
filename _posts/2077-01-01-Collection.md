@@ -106,12 +106,32 @@ tags:
   <th>Date of Collection</th>
 </tr>
 <tr>
+  <td>NVIDIA Tesla P4</td>
+  <td>08/08/23</td>
+</tr>
+<tr>
+  <td>NVIDIA Tesla P4</td>
+  <td>05/05/23</td>
+</tr>
+<tr>
+  <td>Intel Arc A750 Photon 8G (GUNNIR)</td>
+  <td>03/10/23</td>
+</tr>
+<tr>
   <td>NVIDIA Quadro 410 512M</td>
   <td>02/03/23</td>
 </tr>
 <tr>
+  <td>AMD RX 580 8G 2048sp (ROG STRIX)</td>
+  <td>01/29/23</td>
+</tr>
+<tr>
   <td>NVIDIA GeForce GT610 1G (Galaxy)</td>
   <td>01/25/23</td>
+</tr>
+<tr>
+  <td>NVIDIA GeForce RTX 2080 8G (Gigabyte)</td>
+  <td>01/16/23</td>
 </tr>
 <tr>
   <td>NVIDIA GeForce GTX 1060 3G (Inno3D)</td>
