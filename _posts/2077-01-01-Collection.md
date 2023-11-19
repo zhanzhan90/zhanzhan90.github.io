@@ -11,9 +11,14 @@ tags:
   border: 0px;
   text-align: center;
 }
+.subtitle{ 
+    font-size: 16px;           
+    width: 100%;  
+    height: 40px; 
+    text-align:center     
+} 
 </style>
-
-<p><b>CPUs</b></p>
+<div class="subtitle"><b>- CPUs -</b></div>
 <table>
 <tr>
   <th>Model</th>
@@ -31,9 +36,17 @@ tags:
   <td>Intel Core 2 Duo P8700</td>
   <td>10/04/23</td>
 </tr>
+<tr>
+  <td>Intel Xeon E5-2640 v2</td>
+  <td>05/06/23</td>
+</tr>
+<tr>
+  <td>Intel Xeon E5-2623 v3</td>
+  <td>02/02/23</td>
+</tr>
 </table>
 
-<p><b>GPUs</b></p>
+<div class="subtitle"><b>- GPUs -</b></div>
 <table>
 <tr>
   <th>Model</th>
@@ -52,8 +65,7 @@ tags:
   <td>01/04/23</td>
 </tr>
 </table>
-
-<p><b>Network Cards</b></p>
+<div class="subtitle"><b>- Network Cards -</b></div>
 <table>
 <tr>
   <th>Model</th>
@@ -64,5 +76,4 @@ tags:
   <td>10/11/23</td>
 </tr>
 </table>
-
-<p><b>Phones</b></p>
+<div class="subtitle"><b>- Phones -</b></div>
