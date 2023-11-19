@@ -50,6 +50,7 @@ Work Experiences
     <div class="media-body">
         <div><span style="font-weight: bold">Research Assistant</span></div>
         <div>National Engineering Lab for Neuromodulation</div>
+        <div>Advisor: Prof. Yanan Sui</div>
         <div>Tsinghua University, 2022-2023</div>
     </div>
 </div>
@@ -119,7 +120,7 @@ Also see my [Google Scholar Profile](https://scholar.google.com/citations?user=G
 <td><img class="proj_thumb" src="images/publications/adma2022.png" width="350px" alt=""/>&nbsp;</td>
 <td><div class="pub_title"> Prediction and Design of Nanozymes Using Explainable Machine Learning </div>
 <div class="pub_author"> Wei, Y., Wu, J., Wu, Y., <b>Liu, H.</b>, ... , Huang, X.# </div>
-<div class="pub_journal"><i><b>Advanced Material</b>, 2022</i> [<a href="https://doi.org/10.1002/adma.202201736">Paper</a>]</div>
+<div class="pub_journal"><i><b>Advanced Materials</b>, 2022</i> [<a href="https://doi.org/10.1002/adma.202201736">Paper</a>]</div>
 </td>
 </tr>
 
