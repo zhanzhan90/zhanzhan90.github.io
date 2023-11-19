@@ -18,6 +18,7 @@ tags:
     text-align:center     
 } 
 </style>
+
 <div class="subtitle"><b>- CPUs -</b></div>
 <table>
 <tr>
