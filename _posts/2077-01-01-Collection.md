@@ -265,3 +265,57 @@ tags:
 </table>
 
 <div class="subtitle"><b>- Phones -</b></div>
+<table>
+<tr>
+  <th>Model</th>
+  <th>Date of Collection</th>
+</tr>
+<tr>
+  <td>Nokia Lumia 820</td>
+  <td>08/20/17</td>
+</tr>
+<tr>
+  <td>Xiaomi Mi 2S (white 32GB)</td>
+  <td>08/19/17</td>
+</tr>
+<tr>
+  <td>Xiaomi Mi 6 (black 64GB)</td>
+  <td>06/20/17</td>
+</tr>
+</table>
+
+<div class="subtitle"><b>- Others -</b></div>
+<table>
+<tr>
+  <th>Model</th>
+  <th>Date of Collection</th>
+</tr>
+<tr>
+  <td>H3C S1224</td>
+  <td>05/12/23</td>
+</tr>
+<tr>
+  <td>Philips SHP9500</td>
+  <td>03/02/23</td>
+</tr>
+<tr>
+  <td>SANTAK TG-BOX 850</td>
+  <td>02/06/23</td>
+</tr>
+<tr>
+  <td>NS Mario Tennis Aces</td>
+  <td>12/17/22</td>
+</tr>
+<tr>
+  <td>NS Luigi Mansion 3</td>
+  <td>12/06/22</td>
+</tr>
+<tr>
+  <td>NS Ring Fit Adventure</td>
+  <td>08/12/22</td>
+</tr>
+<tr>
+  <td>Nintendo Switch</td>
+  <td>08/11/22</td>
+</tr>
+</table>
