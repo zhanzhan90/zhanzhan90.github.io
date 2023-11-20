@@ -43,8 +43,16 @@ tags:
   <td>10/04/23</td>
 </tr>
 <tr>
+  <td>Intel Xeon E5-2650 v4 (2)</td>
+  <td>05/22/23</td>
+</tr>
+<tr>
   <td>Intel Xeon E5-2640 v2</td>
   <td>05/06/23</td>
+</tr>
+<tr>
+  <td>Intel Core i3-4160T</td>
+  <td>02/19/23</td>
 </tr>
 <tr>
   <td>Intel Xeon E5-2623 v3</td>
