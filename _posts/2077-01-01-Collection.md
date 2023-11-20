@@ -35,6 +35,10 @@ tags:
   <td>11/18/23</td>
 </tr>
 <tr>
+  <td>Intel Core 2 Duo T9600</td>
+  <td>10/05/23</td>
+</tr>
+<tr>
   <td>Intel Core 2 Duo P8700</td>
   <td>10/04/23</td>
 </tr>
@@ -173,7 +177,71 @@ tags:
 </table>
 
 <div class="subtitle"><b>- SSDs -</b></div>
+<table>
+<tr>
+  <th>Model</th>
+  <th>Date of Collection</th>
+</tr>
+<tr>
+  <td>Micron 1100 2TB (SATA3)</td>
+  <td>07/22/23</td>
+</tr>
+<tr>
+  <td>Samsung PM991 128GB (2230 PCIe3.0x4)</td>
+  <td>05/22/23</td>
+</tr>
+<tr>
+  <td>Intel Optane Memory M10 16GB (2280 PCIe3.0x2)</td>
+  <td>04/14/23</td>
+</tr>
+<tr>
+  <td>Phison 240GB (KIOXIA + SKhynix) (SATA3)</td>
+  <td>02/19/23</td>
+</tr>
+<tr>
+  <td>Kingchuxing 128GB (mSATA3)</td>
+  <td>02/06/23</td>
+</tr>
+<tr>
+  <td>Micron M500 960GB (SATA3) (2)</td>
+  <td>01/23/23</td>
+</tr>
+<tr>
+  <td>KingBank KP230 2TB (CXMT) (2280 PCIe3.0x4)</td>
+  <td>01/23/23</td>
+</tr>
+<tr>
+  <td>Samsung 980 1TB (2280 PCIe3.0x4)</td>
+  <td>10/01/21</td>
+</tr>
+<tr>
+  <td>ADATA SP580 240GB (SATA3)</td>
+  <td>06/27/20</td>
+</tr>
+</table>
 
 <div class="subtitle"><b>- HDDs -</b></div>
+<table>
+<tr>
+  <th>Model</th>
+  <th>Date of Collection</th>
+</tr>
+<tr>
+  <td>HGST Ultrastar He10 10TB (SATA3)</td>
+  <td>06/21/23</td>
+</tr>
+<tr>
+  <td>WD Ultrastar DC HC530 14TB (SATA3) (2)</td>
+  <td>05/30/23</td>
+</tr>
+<tr>
+  <td>Seagate Savvio 10K.6 600GB (SAS) (2)</td>
+  <td>08/23/19</td>
+</tr>
+<tr>
+  <td>Seagate Backup Plus 1TB (USB3.0)</td>
+  <td>09/10/15</td>
+</tr>
+</table>
 
 <div class="subtitle"><b>- Phones -</b></div>
