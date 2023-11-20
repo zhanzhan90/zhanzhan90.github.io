@@ -191,7 +191,15 @@ tags:
   <th>Date of Collection</th>
 </tr>
 <tr>
-  <td>Micron 1100 2TB (SATA3)</td>
+  <td>Lite-On CV8 128GB (2.5inch SATA3)</td>
+  <td>08/28/23</td>
+</tr>
+<tr>
+  <td>Micron 1100 2TB (2.5inch SATA3)</td>
+  <td>07/22/23</td>
+</tr>
+<tr>
+  <td>Samsung PM871b 128GB (2280 SATA3)</td>
   <td>07/22/23</td>
 </tr>
 <tr>
@@ -203,7 +211,7 @@ tags:
   <td>04/14/23</td>
 </tr>
 <tr>
-  <td>Phison 240GB (KIOXIA + SKhynix) (SATA3)</td>
+  <td>Phison 240GB (KIOXIA + SKhynix) (2.5inch SATA3)</td>
   <td>02/19/23</td>
 </tr>
 <tr>
@@ -211,7 +219,7 @@ tags:
   <td>02/06/23</td>
 </tr>
 <tr>
-  <td>Micron M500 960GB (SATA3) (2)</td>
+  <td>Micron M500 960GB (2.5inch SATA3) (2)</td>
   <td>01/23/23</td>
 </tr>
 <tr>
@@ -223,7 +231,7 @@ tags:
   <td>10/01/21</td>
 </tr>
 <tr>
-  <td>ADATA SP580 240GB (SATA3)</td>
+  <td>ADATA SP580 240GB (2.5inch SATA3)</td>
   <td>06/27/20</td>
 </tr>
 </table>
@@ -235,19 +243,23 @@ tags:
   <th>Date of Collection</th>
 </tr>
 <tr>
-  <td>HGST Ultrastar He10 10TB (SATA3)</td>
+  <td>WD Ultrastar DC HC530 14TB (3.5inch SATA3) (4)</td>
+  <td>07/25/23</td>
+</tr>
+<tr>
+  <td>HGST Ultrastar He10 10TB (3.5inch SATA3)</td>
   <td>06/21/23</td>
 </tr>
 <tr>
-  <td>WD Ultrastar DC HC530 14TB (SATA3) (2)</td>
+  <td>WD Ultrastar DC HC530 14TB (3.5inch SATA3) (2)</td>
   <td>05/30/23</td>
 </tr>
 <tr>
-  <td>Seagate Savvio 10K.6 600GB (SAS) (2)</td>
+  <td>Seagate Savvio 10K.6 600GB (2.5inch SAS) (2)</td>
   <td>08/23/19</td>
 </tr>
 <tr>
-  <td>Seagate Backup Plus 1TB (USB3.0)</td>
+  <td>Seagate Backup Plus 1TB (2.5inch USB3.0)</td>
   <td>09/10/15</td>
 </tr>
 </table>
