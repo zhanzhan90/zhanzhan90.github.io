@@ -191,6 +191,10 @@ tags:
   <th>Date of Collection</th>
 </tr>
 <tr>
+  <td>SanDisk CloudSpeed Eco Gen II 2TB (w/ Boyuan) (2.5inch SATA3)</td>
+  <td>08/30/23</td>
+</tr>
+<tr>
   <td>Lite-On CV8 128GB (2.5inch SATA3)</td>
   <td>08/28/23</td>
 </tr>
@@ -255,6 +259,10 @@ tags:
   <td>05/30/23</td>
 </tr>
 <tr>
+  <td>Seagate Exos X16 16TB (3.5inch SATA3)</td>
+  <td>06/17/22</td>
+</tr>
+<tr>
   <td>Seagate Savvio 10K.6 600GB (2.5inch SAS) (2)</td>
   <td>08/23/19</td>
 </tr>
@@ -263,6 +271,8 @@ tags:
   <td>09/10/15</td>
 </tr>
 </table>
+
+<div class="subtitle"><b>- Motherboards -</b></div>
 
 <div class="subtitle"><b>- Phones -</b></div>
 <table>
