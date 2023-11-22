@@ -301,6 +301,10 @@ tags:
   <th>Date of Collection</th>
 </tr>
 <tr>
+  <td>Mac Mini A1347 (Late 2014)</td>
+  <td>10/02/23</td>
+</tr>
+<tr>
   <td>H3C S1224</td>
   <td>05/12/23</td>
 </tr>
