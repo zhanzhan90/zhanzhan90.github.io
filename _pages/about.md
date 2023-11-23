@@ -42,7 +42,7 @@ Work Experiences
     <div class="media-body">
         <div><span style="font-weight: bold">Research Assistant</span></div>
         <div>National Engineering Lab for Neuromodulation</div>
-        <div>Advisor: Prof. <a href="https://lnsgroup.cc" target="_blank">Yanan Sui</a></div>
+        <div>Advisor: Prof. <a href="https://yanansui.com" target="_blank">Yanan Sui</a></div>
         <div>Tsinghua University, 2022-2023</div>
     </div>
 </div>
