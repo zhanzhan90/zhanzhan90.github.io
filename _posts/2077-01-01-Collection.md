@@ -270,6 +270,7 @@ tags:
   <th>Model</th>
   <th>Date of Collection</th>
 </tr>
+<tr>
   <td>WD Scorpio Blue 250GB (5.4k 2.5inch SATA2)</td>
   <td>10/04/23</td>
 </tr>
