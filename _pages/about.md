@@ -28,17 +28,9 @@ Education
 <div class="media">
     <span class="pull-left"><img src="images/nku.png" width="75px" height="75px"/></span>
     <div class="media-body">
-        <div><span style="font-weight: bold">B.S. Biological Science (Poling Class)</span></div>
+        <div><span style="font-weight: bold">B.S. Biological Science (Poling Honors Degree)</span></div>
         <div>Advisor: Prof. Xinglu Huang</div>
         <div>Nankai University, 2018-2023</div>
-    </div>
-</div>
-
-<div class="media">
-    <span class="pull-left"><img src="images/nku.png" width="75px" height="75px"/></span>
-    <div class="media-body">
-        <div><span style="font-weight: bold">Poling Honors Degree</span></div>
-        <div>Nankai University, 2023</div>
     </div>
 </div>
 

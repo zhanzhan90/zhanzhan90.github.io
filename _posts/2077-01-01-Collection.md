@@ -251,7 +251,7 @@ tags:
   <td>01/23/23</td>
 </tr>
 <tr>
-  <td>KingBank KP230 2TB (CXMT) (2280 PCIe3.0x4)</td>
+  <td>KingBank KP230 Pro 2TB (CXMT) (2280 PCIe3.0x4)</td>
   <td>01/23/23</td>
 </tr>
 <tr>
