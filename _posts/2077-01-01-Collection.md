@@ -18,7 +18,7 @@ tags:
     text-align:center     
 } 
 </style>
-<p>Every hardware has its own unique narrative, and I find great satisfaction in collecting and preserving these stories. It is a testament to the evolution of technology and the countless innovations that shape our digital landscape.</p>
+<p>Every hardware has its own unique narrative, as I find great satisfaction in collecting and preserving these stories. It is a testament to the evolution of technology and the countless innovations that shape our digital landscape.</p>
 
 <div class="subtitle"><b>- CPUs -</b></div>
 <table>
