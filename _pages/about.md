@@ -28,17 +28,9 @@ Education
 <div class="media">
     <span class="pull-left"><img src="images/nku.png" width="75px" height="75px"/></span>
     <div class="media-body">
-        <div><span style="font-weight: bold">B.S. Biological Science (Poling Class)</span></div>
-        <div>Advisor: Prof. Xinglu Huang</div>
+        <div><span style="font-weight: bold">B.S. Biological Science (Poling Honors Degree)</span></div>
+        <div>Advisor: Prof. <a href="https://huanglab.cc" target="_blank">Xinglu Huang</a></div>
         <div>Nankai University, 2018-2023</div>
-    </div>
-</div>
-
-<div class="media">
-    <span class="pull-left"><img src="images/nku.png" width="75px" height="75px"/></span>
-    <div class="media-body">
-        <div><span style="font-weight: bold">Poling Honors Degree</span></div>
-        <div>Nankai University, 2023</div>
     </div>
 </div>
 
@@ -50,7 +42,7 @@ Work Experiences
     <div class="media-body">
         <div><span style="font-weight: bold">Research Assistant</span></div>
         <div>National Engineering Lab for Neuromodulation</div>
-        <div>Advisor: Prof. Yanan Sui</div>
+        <div>Advisor: Prof. <a href="https://yanansui.com" target="_blank">Yanan Sui</a></div>
         <div>Tsinghua University, 2022-2023</div>
     </div>
 </div>
@@ -60,7 +52,7 @@ Work Experiences
     <div class="media-body">
         <div><span style="font-weight: bold">Visiting Student</span></div>
         <div>Institute for Human Genetics</div>
-        <div>Advisor: Prof. Yin Shen</div>
+        <div>Advisor: Prof. <a href="https://shenlab.ucsf.edu" target="_blank">Yin Shen</a></div>
         <div>UCSF, 2021-2022</div>
     </div>
 </div>
