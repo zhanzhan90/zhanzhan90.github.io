@@ -27,6 +27,18 @@ tags:
   <th>Date of Collection</th>
 </tr>
 <tr>
+  <td>AMD Athlon II X4 631</td>
+  <td>11/23/23</td>
+</tr>
+<tr>
+  <td>Intel Core 2 Quad Q8200</td>
+  <td>11/23/23</td>
+</tr>
+<tr>
+  <td>Intel Pentium G850</td>
+  <td>11/23/23</td>
+</tr>
+<tr>
   <td>Intel Core i5-7640X</td>
   <td>11/18/23</td>
 </tr>
@@ -163,6 +175,10 @@ tags:
   <th>Date of Collection</th>
 </tr>
 <tr>
+  <td>Qualcomm Atheros QCNFA335 (NGFF)</td>
+  <td>11/23/23</td>
+</tr>
+<tr>
   <td>HPE InfiniBand 544+FLR-QSFP (40Gb 2-port HCAs)</td>
   <td>10/11/23</td>
 </tr>
@@ -191,6 +207,10 @@ tags:
   <th>Date of Collection</th>
 </tr>
 <tr>
+  <td>Intel Optane Memory 16GB (2280 PCIe3.0x2) (1st gen)</td>
+  <td>11/23/23</td>
+</tr>
+<tr>
   <td>SanDisk CloudSpeed Eco Gen II 2TB (w/ Boyuan) (2.5inch SATA3)</td>
   <td>08/30/23</td>
 </tr>
@@ -205,6 +225,10 @@ tags:
 <tr>
   <td>Samsung PM871b 128GB (2280 SATA3)</td>
   <td>07/22/23</td>
+</tr>
+<tr>
+  <td>WD SN730 256GB (2280 PCIe3.0x4)</td>
+  <td>05/22/23</td>
 </tr>
 <tr>
   <td>Samsung PM991 128GB (2230 PCIe3.0x4)</td>
@@ -227,7 +251,7 @@ tags:
   <td>01/23/23</td>
 </tr>
 <tr>
-  <td>KingBank KP230 2TB (CXMT) (2280 PCIe3.0x4)</td>
+  <td>KingBank KP230 Pro 2TB (CXMT) (2280 PCIe3.0x4)</td>
   <td>01/23/23</td>
 </tr>
 <tr>
@@ -247,7 +271,11 @@ tags:
   <th>Date of Collection</th>
 </tr>
 <tr>
-  <td>WD Ultrastar DC HC530 14TB (3.5inch SATA3) (4)</td>
+  <td>WD Scorpio Blue 250GB (5.4k 2.5inch SATA2)</td>
+  <td>10/04/23</td>
+</tr>
+<tr>
+  <td>WD Ultrastar DC HC530 14TB (3.5inch SATA3) (5)</td>
   <td>07/25/23</td>
 </tr>
 <tr>
