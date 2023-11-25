@@ -27,6 +27,22 @@ tags:
   <th>Date of Collection</th>
 </tr>
 <tr>
+  <td>Intel Xeon Sliver 4110</td>
+  <td>11/25/23</td>
+</tr>
+<tr>
+  <td>Intel Xeon E5-1620 v4</td>
+  <td>11/24/23</td>
+</tr>
+<tr>
+  <td>Intel Core i3-350M</td>
+  <td>11/24/23</td>
+</tr>
+<tr>
+  <td>AMD A6-5350M</td>
+  <td>11/24/23</td>
+</tr>
+<tr>
   <td>AMD Athlon II X4 631</td>
   <td>11/23/23</td>
 </tr>
