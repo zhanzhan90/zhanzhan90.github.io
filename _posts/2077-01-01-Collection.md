@@ -345,6 +345,10 @@ tags:
   <th>Date of Collection</th>
 </tr>
 <tr>
+  <td>Apple Magic Mouse A1296 (1st gen)</td>
+  <td>10/02/23</td>
+</tr>
+<tr>
   <td>Mac Mini A1347 (Late 2014)</td>
   <td>10/02/23</td>
 </tr>
@@ -375,6 +379,10 @@ tags:
 <tr>
   <td>Nintendo Switch</td>
   <td>08/11/22</td>
+</tr>
+<tr>
+  <td>Apple Magic Mouse A1657 (2nd gen)</td>
+  <td>08/25/18</td>
 </tr>
 </table>
 
