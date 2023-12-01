@@ -88,7 +88,7 @@ Also see my [Google Scholar Profile](https://scholar.google.com/citations?user=G
 <td><img class="proj_thumb" src="images/publications/NChem2023.png" width="350px" alt=""/>&nbsp;</td>
 <td><div class="pub_title"> Genetically encoded chemical crosslinking of RNA in vivo </div>
 <div class="pub_author"> Sun, W.*, Wang, N.*, <b>Liu, H.</b>, Yu, H., ... Shen, Y., Wang, L.#</div>
-<div class="pub_journal"><i><b>Nature Chemistry</b>, 2023</i> [<a href="https://doi.org/10.1038/s41557-022-01038-4">Paper</a>] [<a href="https://github.com/Shall-We-Dance/GRIP-seq">GitHub</a>] [<a href="https://www.ncbi.nlm.nih.gov/bioproject/PRJNA797913">NCBI SRA</a>][<a href="https://www.nature.com/articles/s41557-022-01116-7">Nature News</a>]</div>https://
+<div class="pub_journal"><i><b>Nature Chemistry</b>, 2023</i> [<a href="https://doi.org/10.1038/s41557-022-01038-4">Paper</a>] [<a href="https://github.com/Shall-We-Dance/GRIP-seq">GitHub</a>] [<a href="https://www.ncbi.nlm.nih.gov/bioproject/PRJNA797913">NCBI SRA</a>][<a href="https://www.nature.com/articles/s41557-022-01116-7">Nature News</a>]</div>
 </td>
 </tr>
 
