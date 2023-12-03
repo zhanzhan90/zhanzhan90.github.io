@@ -34,7 +34,7 @@ Education
     </div>
 </div>
 
-Work Experiences
+Experience
 ------
 
 <div class="media">
