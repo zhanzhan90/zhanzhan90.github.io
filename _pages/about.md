@@ -11,7 +11,7 @@ redirect_from:
 
 Reseach Interests
 ======
-Genomics (Functional, Computational), Epigenomics, Bioinformatics, Development and Application of Sequencing Techniques
+Retrotransposons, Genomics, Bioinformatics, Combination of Imaging and Sequencing Methods
 
 Education
 ------
