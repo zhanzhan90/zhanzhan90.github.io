@@ -7,11 +7,11 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Hongjiang's Homepage"
+title                    : "Ge's Homepage"
 title_separator          : "-"
-name                     : &name "Hongjiang Liu"
+name                     : &name "Ge Zhan"
 description              : &description "personal description"
-url                      : https://cv.greysea.cc # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://zhanzhan90.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "Shall-We-Dance/academicpages.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
@@ -57,7 +57,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : &twitter "realHJLiu"
+  username               : 
 facebook:
   username               :
   app_id                 :
@@ -80,36 +80,36 @@ analytics:
 
 # Site Author
 author:
-  name             : "Hongjiang Liu"
+  name             : "Ge Zhan"
   avatar           : "profile.jpg"
-  bio              : "My Bio is Bio."
+  bio              : 
   location         : 
   employer         :
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=GFkNo_IAAAAJ&hl=en"
-  email            : "greysea.wm [AT] gmail.com"
-  researchgate     : "https://www.researchgate.net/profile/Hongjiang-Liu-3"
-  uri              : "https://cv.greysea.cc"
+  googlescholar    : "https://scholar.google.com/citations?user=vnMn6S8AAAAJ"
+  email            : "zhang13@tsinghua.org.cn"
+  researchgate     : "https://www.researchgate.net/profile/Ge-Zhan-4"
+  uri              : "https://zhanzhan90.github.io/"
   bitbucket        :
   codepen          :
   dribbble         :
   flickr           :
   facebook         :
   foursquare       :
-  github           : "Shall-We-Dance"
+  github           : "zhanzhan90"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : "https://orcid.org/0000-0001-6600-642X"
+  orcid            : 
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "realHJLiu"
+  twitter          : 
   vine             :
   weibo            :
   xing             :
