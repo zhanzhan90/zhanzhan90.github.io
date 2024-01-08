@@ -2,10 +2,10 @@
 main:
     
   - title: "CV.pdf"
-    url: /files/CV_Hongjiang_Liu.pdf
+    url: 
 
   - title: "Talks"
-    url: /talks/  
+    url:  
   
   - title: "Posts"
-    url: /posts/
+    url: 

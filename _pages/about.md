@@ -25,14 +25,36 @@ Education
 .media-body{width:70%;float:left;margin-left:10px;}
 </style>
 
+
 <div class="media">
-    <span class="pull-left"><img src="images/nku.png" width="75px" height="75px"/></span>
+    <span class="pull-left"><img src="images/thu.png" width="75px" height="75px"/></span>
     <div class="media-body">
-        <div><span style="font-weight: bold">B.S. Biological Science (Poling Honors Degree)</span></div>
-        <div>Advisor: Prof. <a href="https://huanglab.cc" target="_blank">Xinglu Huang</a></div>
-        <div>Nankai University, 2018-2023</div>
+        <div><span style="font-weight: bold">Ph.D.</span></div>
+        <div>School of Medicine</div>
+        <div>Advisor: Prof. <a href="https://www.xshenlab.com" target="_blank">Xiaohua Shen</a></div>
+        <div>Tsinghua University, 2013-2021</div>
     </div>
 </div>
+
+<div class="media">
+    <span class="pull-left"><img src="images/CAAS.jpeg" width="75px" height="75px"/></span>
+    <div class="media-body">
+        <div><span style="font-weight: bold">Visiting Student</span></div>
+        <div>Institute of Crop Sciences, Chinese Academy of Agricultural Sciences</div>
+        <div>Advisor: Prof. <a href="http://icscaas.com.cn/rctd/cxtd/ddyzjzcxyxpzxy/gg_8/101715.htm" target="_blank">Cunxiang Wu</a></div>
+        <div>2012-2013</div>
+    </div>
+</div>
+
+<div class="media">
+    <span class="pull-left"><img src="images/bit.gif" width="75px" height="75px"/></span>
+    <div class="media-body">
+        <div><span style="font-weight: bold">B.S. Bioengineering </span></div>
+        <div>Advisor: Prof. <a target="_blank">Yongjun Feng</a></div>
+        <div>Beijing Institute of Technology, 2009-2013</div>
+    </div>
+</div>
+
 
 Experience
 ------
@@ -40,31 +62,13 @@ Experience
 <div class="media">
     <span class="pull-left"><img src="images/thu.png" width="75px" height="75px"/></span>
     <div class="media-body">
-        <div><span style="font-weight: bold">Research Assistant</span></div>
-        <div>National Engineering Lab for Neuromodulation</div>
-        <div>Advisor: Prof. <a href="https://yanansui.com" target="_blank">Yanan Sui</a></div>
-        <div>Tsinghua University, 2022-2023</div>
+        <div><span style="font-weight: bold">Postdoctoral scholar</span></div>
+        <div>School of Medicine</div>
+        <div>Advisor: Prof. <a href="https://www.xshenlab.com" target="_blank">Xiaohua Shen</a></div>
+        <div>Tsinghua University, 2021-2024</div>
     </div>
 </div>
 
-<div class="media">
-    <span class="pull-left"><img src="images/ucsf.png" width="75px" height="37.5px"/></span>
-    <div class="media-body">
-        <div><span style="font-weight: bold">Visiting Student</span></div>
-        <div>Institute for Human Genetics</div>
-        <div>Advisor: Prof. <a href="https://shenlab.ucsf.edu" target="_blank">Yin Shen</a></div>
-        <div>UCSF, 2021-2022</div>
-    </div>
-</div>
-
-<div class="media">
-    <span class="pull-left"><img src="images/thu.png" width="75px" height="75px"/></span>
-    <div class="media-body">
-        <div><span style="font-weight: bold">Intern</span></div>
-        <div>National Engineering Lab for Neuromodulation</div>
-        <div>Tsinghua University, 2021</div>
-    </div>
-</div>
 
 Publications
 ------
@@ -129,10 +133,9 @@ Also see my [Google Scholar Profile](https://scholar.google.com/citations?user=G
 Awards
 ------
 
- * Poling Honors Degree, Nankai University
- * Distinguished Undergraduate Thesis, Nankai University
- * Scholarship of Academic Progress, Nankai University
- * Third Prize in Innovative Scientific Research for Undergraduates of Nankai University
+ * Outstanding Flash Talk, Epigenetics and Chromatin Biology Conference, Wuhan, China, 2023.
+ * Outstanding Postdoctoral Fund, Center for Life Science ($3282), 2022-2024.
+ * Outstanding Poster Prize in Ph.D. Forum, Tsinghua University, 2021
 
 Technical Skills
 ------
