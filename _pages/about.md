@@ -120,8 +120,9 @@ Also see my [Google Scholar Profile](https://scholar.google.com/citations?user=v
 </tr>
 
 <tr>
-<td><img class="proj_thumb" src="images/publications/adma2022.png" width="350px" alt=""/>&nbsp;</td>
-<td><div class="pub_title"> Prediction and Design of Nanozymes Using Explainable Machine Learning </div>
+<td><img class="proj_thumb" src="images/publications/NAR_2016.jpeg" width="350px" alt=""/>&nbsp;</td>
+<td><div class="pub_title"> Analysis of C. elegans muscle transcriptome using trans-splicing-based RNA tagging (SRT) </div>
+
 <div class="pub_author"> Ma, X.*, <b>Zhan, G.*</b>, Sleumer, M. C., Chen, S., Liu, W., Zhang, M. Q., Liu, X.# </div>
 <div class="pub_journal"><i><b>Nucleic Acids Research</b>, 2016</i> [<a href="https://doi.org/10.1093/nar/gkw734">Paper</a>]</div>
 
@@ -135,7 +136,7 @@ Awards
 
  * Outstanding Flash Talk, Epigenetics and Chromatin Biology Conference, Wuhan, China, 2023.
  * Outstanding Postdoctoral Fund, Center for Life Science ($3282), 2022-2024.
- * Outstanding Poster Prize in Ph.D. Forum, Tsinghua University, 2021
+ * Outstanding Poster Prize in Ph.D. Forum, Tsinghua University, 2021.
 
 Technical Skills
 ------
