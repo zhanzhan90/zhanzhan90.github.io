@@ -47,7 +47,7 @@ Education
 </div>
 
 <div class="media">
-    <span class="pull-left"><img src="images/bit.gif" width="75px" height="75px"/></span>
+    <span class="pull-left"><img src="images/bit.gif" width="85px" height="85px"/></span>
     <div class="media-body">
         <div><span style="font-weight: bold">B.S. in Bioengineering </span></div>
       <div>School of Life Sciences</div>  
