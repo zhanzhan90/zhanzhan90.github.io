@@ -45,9 +45,8 @@ Education
         <div>Chinese Academy of Agricultural Sciences, 2012-2013</div>
     </div>
 </div>
-
 <div class="media">
-    <span class="pull-left"><img src="images/bit.gif" width="65px" height="65px"/></span>
+    <span class="pull-left"><img src="images/bit.jpeg" width="75px" height="75px"/></span>
     <div class="media-body">
         <div><span style="font-weight: bold">B.S. in Bioengineering </span></div>
       <div>School of Life Sciences</div>  
@@ -55,6 +54,7 @@ Education
         <div>Beijing Institute of Technology, 2009-2013</div>
     </div>
 </div>
+
 
 
 
