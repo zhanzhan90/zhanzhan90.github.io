@@ -47,7 +47,7 @@ Education
 </div>
 
 <div class="media">
-    <span class="pull-left"><img src="images/bit.gif" width="85px" height="85px"/></span>
+    <span class="pull-left"><img src="images/bit.gif" width="65px" height="65px"/></span>
     <div class="media-body">
         <div><span style="font-weight: bold">B.S. in Bioengineering </span></div>
       <div>School of Life Sciences</div>  
@@ -114,7 +114,7 @@ Also see my [Google Scholar Profile](https://scholar.google.com/citations?user=v
 <td><div class="pub_title"> RNA Targets Ribogenesis Factor WDR43 to Chromatin for Transcription and Pluripotency Control </div>
 
 <div class="pub_author"> Bi, X., Xu, Y.*, Li, T. *, Li, X. *, Li, W. *, Shao, W. *, Wang, K. *, <b>Zhan, G. *</b>, ..., Shen, X.# </div>
-<div class="pub_journal"><i><b>Mol Cell</b>, 2019</i> [<a href="https://doi.org/10.1016/j.molcel.2019.05.007">Paper</a>]</div>
+<div class="pub_journal"><i><b>Molecular Cell</b>, 2019</i> [<a href="https://doi.org/10.1016/j.molcel.2019.05.007">Paper</a>]</div>
 
 </td>
 </tr>
