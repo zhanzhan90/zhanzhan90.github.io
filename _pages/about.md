@@ -29,7 +29,7 @@ Education
 <div class="media">
     <span class="pull-left"><img src="images/thu.png" width="75px" height="75px"/></span>
     <div class="media-body">
-        <div><span style="font-weight: bold">Ph.D.</span></div>
+        <div><span style="font-weight: bold">Ph.D. in Basic Medicine</span></div>
         <div>School of Medicine</div>
         <div>Advisor: Prof. <a href="https://www.xshenlab.com" target="_blank">Xiaohua Shen</a></div>
         <div>Tsinghua University, 2013-2021</div>
@@ -40,20 +40,22 @@ Education
     <span class="pull-left"><img src="images/CAAS.jpeg" width="75px" height="75px"/></span>
     <div class="media-body">
         <div><span style="font-weight: bold">Visiting Student</span></div>
-        <div>Institute of Crop Sciences, Chinese Academy of Agricultural Sciences</div>
+        <div>Institute of Crop Sciences</div>
         <div>Advisor: Prof. <a href="http://icscaas.com.cn/rctd/cxtd/ddyzjzcxyxpzxy/gg_8/101715.htm" target="_blank">Cunxiang Wu</a></div>
-        <div>2012-2013</div>
+        <div>Chinese Academy of Agricultural Sciences, 2012-2013</div>
     </div>
 </div>
 
 <div class="media">
     <span class="pull-left"><img src="images/bit.gif" width="75px" height="75px"/></span>
     <div class="media-body">
-        <div><span style="font-weight: bold">B.S. Bioengineering </span></div>
-        <div>Advisor: Prof. <a target="_blank">Yongjun Feng</a></div>
+        <div><span style="font-weight: bold">B.S. in Bioengineering </span></div>
+      <div>School of Life Sciences</div>  
+      <div>Advisor: Prof. <a target="_blank">Yongjun Feng</a></div>
         <div>Beijing Institute of Technology, 2009-2013</div>
     </div>
 </div>
+
 
 
 Experience
@@ -84,47 +86,45 @@ Publications
 } 
 </style>
 
-Also see my [Google Scholar Profile](https://scholar.google.com/citations?user=GFkNo_IAAAAJ&hl=en).
+Also see my [Google Scholar Profile](https://scholar.google.com/citations?user=vnMn6S8AAAAJ).
 
 <table>
-
 <tr>
-<td><img class="proj_thumb" src="images/publications/NChem2023.png" width="350px" alt=""/>&nbsp;</td>
-<td><div class="pub_title"> Genetically encoded chemical crosslinking of RNA in vivo </div>
-<div class="pub_author"> Sun, W.*, Wang, N.*, <b>Liu, H.</b>, Yu, H., ... Shen, Y., Wang, L.#</div>
-<div class="pub_journal"><i><b>Nature Chemistry</b>, 2023</i> [<a href="https://doi.org/10.1038/s41557-022-01038-4">Paper</a>] [<a href="https://github.com/Shall-We-Dance/GRIP-seq">GitHub</a>] [<a href="https://www.ncbi.nlm.nih.gov/bioproject/PRJNA797913">NCBI SRA</a>]</div>
+<td><img class="proj_thumb" src="images/publications/NCB_2022.png" width="350px" alt=""/>&nbsp;</td>
+<td><div class="pub_title"> Phase separation of RNA-binding protein promotes polymerase binding and transcription </div>
+
+<div class="pub_author"> Shao, W., Bi, X., Pan, Y., Gao, B., ... <b>Zhan, G.</b>, ..., Shen, X.#</div>
+<div class="pub_journal"><i><b>Nature Chemical Biology</b>, 2022</i> [<a href="https://doi.org/10.1038/s41589-021-00904-5">Paper</a>]  </div>
+
 </td>
 </tr>
 
 <tr>
-<td><img class="proj_thumb" src="images/publications/NG2023.png" width="350px" alt=""/>&nbsp;</td>
-<td><div class="pub_title"> Functional Characterization of Alzheimer’s Disease Genetic Variants in Microglia </div>
-<div class="pub_author"> Yang, X., Wen, J., Yang, H., Jones, I., ... , <b>Liu, H.</b>, ... & Shen, Y.# </div>
-<div class="pub_journal"><i><b>Nature Genetics</b>, 2023</i> [<a href="https://doi.org/10.1038/s41588-023-01506-8">Paper</a>]</div>
+<td><img class="proj_thumb" src="images/publications/CellRes_2021.png" width="350px" alt=""/>&nbsp;</td>
+<td><div class="pub_title"> Homotypic clustering of L1 and B1/Alu repeats compartmentalizes the 3D genome </div>
+
+<div class="pub_author"> Lu, J. Y., Chang, L., Li, T., Wang, T.*, Yin, Y.*, <b>Zhan, G.*</b>, ..., Shen, X.# </div>
+<div class="pub_journal"><i><b>Cell Research</b>, 2021</i> [<a href="https://doi.org/10.1038/s41422-020-00466-6">Paper</a>]</div>
+
 </td>
 </tr>
 
 <tr>
-<td><img class="proj_thumb" src="images/publications/bioRxiv2022.png" width="350px" alt=""/>&nbsp;</td>
-<td><div class="pub_title"> Phase separation of Myc differentially modulates the transcriptome </div>
-<div class="pub_author"> Yang, J.*, Chung, C.*, Koach, J., <b>Liu, H.</b>, ... , Shu, X.# </div>
-<div class="pub_journal"><i><b>bioRxiv</b>, 2022</i> [<a href="https://doi.org/10.1101/2022.06.28.498043">Preprint</a>]</div>
+<td><img class="proj_thumb" src="images/publications/MolCell_2019.jpg" width="350px" alt=""/>&nbsp;</td>
+<td><div class="pub_title"> RNA Targets Ribogenesis Factor WDR43 to Chromatin for Transcription and Pluripotency Control </div>
+
+<div class="pub_author"> Bi, X., Xu, Y.*, Li, T. *, Li, X. *, Li, W. *, Shao, W. *, Wang, K. *, <b>Zhan, G. *</b>, ..., Shen, X.# </div>
+<div class="pub_journal"><i><b>Mol Cell</b>, 2019</i> [<a href="https://doi.org/10.1016/j.molcel.2019.05.007">Paper</a>]</div>
+
 </td>
 </tr>
 
 <tr>
 <td><img class="proj_thumb" src="images/publications/adma2022.png" width="350px" alt=""/>&nbsp;</td>
 <td><div class="pub_title"> Prediction and Design of Nanozymes Using Explainable Machine Learning </div>
-<div class="pub_author"> Wei, Y., Wu, J., Wu, Y., <b>Liu, H.</b>, ... , Huang, X.# </div>
-<div class="pub_journal"><i><b>Advanced Materials</b>, 2022</i> [<a href="https://doi.org/10.1002/adma.202201736">Paper</a>]</div>
-</td>
-</tr>
+<div class="pub_author"> Ma, X.*, <b>Zhan, G.*</b>, Sleumer, M. C., Chen, S., Liu, W., Zhang, M. Q., Liu, X.# </div>
+<div class="pub_journal"><i><b>Nucleic Acids Research</b>, 2016</i> [<a href="https://doi.org/10.1093/nar/gkw734">Paper</a>]</div>
 
-<tr>
-<td><img class="proj_thumb" src="images/publications/thno2022.png" width="350px" alt=""/>&nbsp;</td>
-<td><div class="pub_title"> Bioorthogonal catalytic nanozyme-mediated lysosomal membrane leakage for targeted drug delivery </div>
-<div class="pub_author"> Sun, Z., Liu, Q., Wang, X., Wu, J., ... , <b>Liu, H.</b>, ... & Huang, X.# </div>
-<div class="pub_journal"><i><b>Theranostics</b>, 2022</i> [<a href="https://doi.org/10.7150/thno.66325">Paper</a>]</div>
 </td>
 </tr>
 
