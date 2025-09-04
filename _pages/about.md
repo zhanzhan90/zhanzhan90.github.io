@@ -48,7 +48,7 @@ Education
 <div class="media">
     <span class="pull-left"><img src="images/bit.png" width="75px" height="75px"/></span>
     <div class="media-body">
-        <div><span style="font-weight: bold">B.S. in Bioengineering </span></div>
+        <div><span style="font-weight: bold">B.Eng. in Bioengineering </span></div>
       <div>School of Life Sciences</div>  
       <div>Advisor: Prof. <a target="_blank">Yongjun Feng</a></div>
         <div>Beijing Institute of Technology, 2009-2013</div>
