@@ -67,7 +67,7 @@ Experience
         <div><span style="font-weight: bold">Postdoctoral scholar</span></div>
         <div>School of Medicine</div>
         <div>Advisor: Prof. <a href="https://www.xshenlab.com" target="_blank">Xiaohua Shen</a></div>
-        <div>Tsinghua University, 2021-2024</div>
+        <div>Tsinghua University, 2021-Present</div>
     </div>
 </div>
 
@@ -146,56 +146,27 @@ Technical Skills
 [![](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)]()
 [![](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)]()
 [![](https://img.shields.io/badge/Shell-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)]()
-[![](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)]()
-[![](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)]()
 [![](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)]()
-[![](https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white)]()
 
-[![](https://img.shields.io/badge/Flask-ffffff?style=for-the-badge&logo=flask&logoColor=black)]()
-[![](https://img.shields.io/badge/Seurat-276DC3?style=for-the-badge&logo=r&logoColor=white)]()
+
 [![](https://img.shields.io/badge/ggplot2-276DC3?style=for-the-badge&logo=r&logoColor=white)]()
 [![](https://img.shields.io/badge/dplyr-276DC3?style=for-the-badge&logo=r&logoColor=white)]()
 [![](https://img.shields.io/badge/edgeR-276DC3?style=for-the-badge&logo=r&logoColor=white)]()
 [![](https://img.shields.io/badge/clusterProfiler-276DC3?style=for-the-badge&logo=r&logoColor=white)]()
 [![](https://img.shields.io/badge/pheatmap-276DC3?style=for-the-badge&logo=r&logoColor=white)]()
-[![](https://img.shields.io/badge/UpSetR-276DC3?style=for-the-badge&logo=r&logoColor=white)]()
-[![](https://img.shields.io/badge/caret-276DC3?style=for-the-badge&logo=r&logoColor=white)]()
-[![](https://img.shields.io/badge/WGCNA-276DC3?style=for-the-badge&logo=r&logoColor=white)]()
-[![](https://img.shields.io/badge/metaPlotR-276DC3?style=for-the-badge&logo=r&logoColor=white)]()
-[![](https://img.shields.io/badge/alphafold2-2152CE?style=for-the-badge&logo=python&logoColor=white)]()
-[![](https://img.shields.io/badge/CRISPResso-3776AB?style=for-the-badge&logo=python&logoColor=white)]()
-[![](https://img.shields.io/badge/pegLIT-3776AB?style=for-the-badge&logo=python&logoColor=white)]()
-[![](https://img.shields.io/badge/MACS-3776AB?style=for-the-badge&logo=python&logoColor=white)]()
 [![](https://img.shields.io/badge/deepTools-3776AB?style=for-the-badge&logo=python&logoColor=white)]()
-[![](https://img.shields.io/badge/CLIPper-3776AB?style=for-the-badge&logo=python&logoColor=white)]()
-[![](https://img.shields.io/badge/ViennaRNA-A8B9CC?style=for-the-badge&logo=c&logoColor=white)]()
-[![](https://img.shields.io/badge/STAR-A8B9CC?style=for-the-badge&logo=c&logoColor=white)]()
-[![](https://img.shields.io/badge/fastp-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)]()
 [![](https://img.shields.io/badge/Bedtools-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)]()
 [![](https://img.shields.io/badge/Samtools-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)]()
-[![](https://img.shields.io/badge/MEME-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)]()
-[![](https://img.shields.io/badge/FIMO-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)]()
 
-<a href="https://alphafold.lnsgroup.cc:5001" target="_blank">AlphaFold at LNS Group</a>
 
 ### Software
 
-[![](https://img.shields.io/badge/NGINX-009639?style=for-the-badge&logo=nginx&logoColor=white)]()
-[![](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)]()
+
 [![](https://img.shields.io/badge/Conda-342B029?&style=for-the-badge&logo=anaconda&logoColor=white)]()
-[![](https://img.shields.io/badge/VS%20Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)]()
 [![](https://img.shields.io/badge/RStudio-75AADB?style=for-the-badge&logo=rstudio&logoColor=white)]()
-[![](https://img.shields.io/badge/AI-FF9A00?&style=for-the-badge&logo=Adobe%20Illustrator&logoColor=white)]()
-[![](https://img.shields.io/badge/Cloudflare-F38020?&style=for-the-badge&logo=Cloudflare&logoColor=white)]()
-[![](https://img.shields.io/badge/Overleaf-47A141?&style=for-the-badge&logo=Overleaf&logoColor=white)]()
 [![](https://img.shields.io/badge/ImageJ-00D8E0?&style=for-the-badge&logo=imagej&logoColor=white)]()
 [![](https://img.shields.io/badge/SnapGene-5DB1D9?&style=for-the-badge&logoColor=white)]()
-[![](https://img.shields.io/badge/Benchling-020DAE?&style=for-the-badge&logoColor=white)]()
-[![](https://img.shields.io/badge/Zotero-CC2936?&style=for-the-badge&logo=zotero&logoColor=white)]()
-[![](https://img.shields.io/badge/Draw.io-F08705?&style=for-the-badge&logo=diagramsdotnet&logoColor=white)]()
 [![](https://img.shields.io/badge/MS%20Office-D83B01?&style=for-the-badge&logo=microsoftoffice&logoColor=white)]()
-[![](https://img.shields.io/badge/Netdata-4CA851?&style=for-the-badge&logoColor=white)]()
-[![](https://img.shields.io/badge/Jellyfin-00A4DC?&style=for-the-badge&logo=Jellyfin&logoColor=white)]()
 [![](https://img.shields.io/badge/BioRender-3C6FB2?&style=for-the-badge&logoColor=white)]()
 
 ### Systems
@@ -203,15 +174,10 @@ Technical Skills
 [![](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)]()
 [![](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white)]()
 [![](https://img.shields.io/badge/Windows-0067B8?style=for-the-badge&logo=windows%2011&logoColor=white)]()
-[![](https://img.shields.io/badge/Truenas-0095D5?style=for-the-badge&logo=truenas&logoColor=white)]()
-[![](https://img.shields.io/badge/Unraid-F15A2C?style=for-the-badge&logo=unraid&logoColor=white)]()
-[![](https://img.shields.io/badge/Synology-000000?style=for-the-badge&logo=synology&logoColor=white)]()
-[![](https://img.shields.io/badge/OpenWrt-00B5E2?style=for-the-badge&logo=OpenWrt&logoColor=white)]()
-[![](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=Raspberry%20Pi&logoColor=white)]()
 
 ### Wet Lab
 
-Molecular Clone, Cell Culture, ATAC-seq, Smart-seq2, mRNA Display, Mutagenesis, CRISPR Knockout, CRISPR Knockin, CRISPR Screen, Lentivirus, etc.
+EU-seq, Hi-C, ChIP-seq, NAD-seq, DNA-FISH, IF, High-resolution microscopy, CRISPR-a/i, Auxin-inducible degron, SILAC, Molecular Clone, Cell Culture, etc.
 
 
 <div style="text-align:center">
