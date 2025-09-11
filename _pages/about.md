@@ -138,13 +138,6 @@ Awards
  * Outstanding Postdoctoral Fund, Center for Life Science ($3282), 2022-2024.
  * Outstanding Poster Prize in Ph.D. Forum, Tsinghua University, 2021.
 
-Academic Talks
-------
- * Poster presentation, Cold Spring Harbor Asia Conference: Nuclear Architecture and Function, Suzhou, China, 2025.
- * Oral Talk, Cold Spring Harbor Asia Conference: The Repetitive and Mobile Genome, Suzhou, China, 2025.
- * Poster presentation, RNA Society 29th Annual Meeting. Edinburg, Scotland, 2024.
- * Invited presentation, Karlsruhe Institute of Technology, Karlsruhe, Germany, 2024.
- * Flash talk, Epigenetics and Chromatin Biology Conference, Wuhan, China, 2023.
 
 Technical Skills
 ------
